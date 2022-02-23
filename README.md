@@ -3,6 +3,6 @@
 L = Coil(Inducor)
 C = Capasitor
 
-Calclate LC Resonance Frequency.
+Calculate LC Resonance Frequency.
 
 and more will make a Frequency to L or C value.
