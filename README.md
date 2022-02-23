@@ -1,5 +1,7 @@
 # lc-freq-calculator
 
+using vite
+
 L = Coil(Inducor)
 C = Capasitor
 
